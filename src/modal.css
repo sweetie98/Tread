@@ -1,0 +1,8 @@
+.view {
+  width: 255px;
+  height: 201px;
+  margin: 20px;
+  display: flex;
+  float: left;
+  text-align: center;
+}
